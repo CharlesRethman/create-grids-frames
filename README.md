@@ -2,7 +2,7 @@
 
 ## Intro
 
-Ever wondered how you could create a really cool map layout in your QGIS Composer, where the map's edges are defined by a set of longitude/latitude grid lines, regardless of the projection used, instead of the plain old rectangular look. For example, this is a conically-projected map of South Africa:
+Ever wondered how you could create a really cool map layout in your QGIS Composer, where the map's edges follow longitude/latitude grid lines, regardless of the projection used, instead of the plain old rectangular look? For example, this is a conically-projected map of South Africa:
 
 ![map of SA in Albers Equal Area](images/livelihood_zones_v2_a4_1.png "Livelihood Zones in South Africa")
 
